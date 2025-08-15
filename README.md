@@ -50,7 +50,7 @@ It provides an interactive view of sales performance by **Month-Year**, **Region
 - **Insights Document**
 - **Power BI File (.pbix)**
 
-**AUTHOR**
+***AUTHOR**
 
 ***SALOORA VAIBHAV***
 ---
