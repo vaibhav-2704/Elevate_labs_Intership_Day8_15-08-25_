@@ -36,7 +36,8 @@ It provides an interactive view of sales performance by **Month-Year**, **Region
 - **Office Supplies** category achieved the highest profit margins despite lower sales volume.
 
 ## 📸 Dashboard Preview
-<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/4662ba1f-cd04-47ce-a2fa-7be90527d15d" />
+<img width="1277" height="722" alt="image" src="https://github.com/user-attachments/assets/e9f189e9-cf43-4c9f-a561-837f357add8b" />
+
 
 
 ## 📥 How to View
